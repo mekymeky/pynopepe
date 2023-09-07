@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="pynopepe",
-    version="1.0",
+    version="0.1dev1",
     packages=["nopepe"],
     description="pls no pepe ONNX runtime",
     python_requires=">=3.8, <4",
